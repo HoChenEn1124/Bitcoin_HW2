@@ -1,0 +1,5 @@
+{
+  "name": "MSTR mNAV Tracker",
+  "description": "Monitor and visualize MicroStrategy's Modified Net Asset Value (mNAV) and Bitcoin holdings with AI-powered insights.",
+  "requestFramePermissions": []
+}
